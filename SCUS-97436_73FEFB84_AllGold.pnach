@@ -1,12 +1,9 @@
 gametitle=Gran Turismo 4 Spec II [SCUS-97436]
+
 [Get Licenses, Coffee Breaks & Driving All Gold]
 comment=The cars will be rewarded
 author=paine96@Discord Blitznoz@gtplanet
-
-// All Licenses & Coffee Breaks - Gold
 patch=1,EE,409C8774,extended,00550001
 patch=1,EE,0000F991,extended,00000000
-
-// All Missions - Gold 
 patch=1,EE,409C88C8,extended,00280001
 patch=1,EE,0000F003,extended,00000000
